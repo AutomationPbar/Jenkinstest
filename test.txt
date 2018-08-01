@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is CC1B-A9F9
+
+ Directory of C:\Users\Avani\workspace\Jenkinstest
+
+01-08-2018  12:56    <DIR>          .
+01-08-2018  12:56    <DIR>          ..
+01-08-2018  11:36               301 .classpath
+01-08-2018  11:36               387 .project
+01-08-2018  11:36    <DIR>          .settings
+01-08-2018  11:38    <DIR>          bin
+01-08-2018  11:48    <DIR>          src
+01-08-2018  12:56                 0 test.txt
+               3 File(s)            688 bytes
+               5 Dir(s)  172,231,118,848 bytes free
